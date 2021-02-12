@@ -21,7 +21,7 @@ int main() {
     int b;
 
 
-    cout<<"enter elements:\n";
+    cout<<"enter elements of the sorted array:\n";
     for(int i=0; i<n;i++)
     {
         cin>>arr[i];
