@@ -228,6 +228,24 @@ Expected Time Complexity: O(n)
 Expected Auxiliary Space: O(n)
 #
 
+### DAY-13: 
+
+#### Minimum Number of Platforms Required for a Railway/Bus Station.
+
+Given arrival and departure times of all trains that reach a railway station, the task is to find the minimum number of platforms required for the railway station so that no train waits.
+
+##### https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
+
+### My Solution:
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-13)
+
+Expected Time Complexity: O(nlogn) 
+
+Expected Auxiliary Space: O(n)
+#
+
+
 
 
 
