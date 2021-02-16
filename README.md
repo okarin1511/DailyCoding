@@ -279,6 +279,19 @@ Expected Time Complexity: O(n)
 Expected Auxiliary Space: O(1)
 #
 
+### DAY-16: 
+
+#### Different Operations on Matrices 
+
+Perform arithmetic operations on 2 given matrices. 
+
+##### https://www.geeksforgeeks.org/different-operation-matrices/
+
+### My Solution:
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-16)
+#
+
 
 
 
