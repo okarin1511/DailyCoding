@@ -293,5 +293,44 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 #
 
 
+### DAY 17:
+
+#### Minimise the maximum difference of adjacent elements after at most k insertions
+
+Given an array of N elements, the task is to minimize the maximum difference of adjacent elements by inserting at most K elements in the array. 
+
+##### https://www.geeksforgeeks.org/minimize-the-maximum-difference-of-adjacent-elements-after-at-most-k-insertions/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-17)
+#
+
+### DAY 18:
+
+#### Determinant of a matrix
+
+Given a matrix of N size, the task is to find the determinant of the matrix. 
+
+##### https://www.geeksforgeeks.org/determinant-of-a-matrix/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-18)
+#
+
+### DAY 19:
+
+#### Find the transpose of a matrix
+
+Given a matrix of N size, the task is to find the transpose of the matrix. 
+
+https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-19)
+#
+
 
 
