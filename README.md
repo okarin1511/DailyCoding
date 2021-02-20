@@ -332,5 +332,16 @@ https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-19)
 #
 
+### DAY 20:
 
+#### Rotate a matrix by 90 degree in clockwise direction without using any extra space
+
+Given a square matrix, turn it by 90 degrees in clockwise direction without using any extra space.
+
+https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-20)
+#
 
