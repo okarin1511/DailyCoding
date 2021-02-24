@@ -347,11 +347,53 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 21:
 
-#### 
+#### Print a given Matrix in spiral form
 
-TASK: Given a binary matrix, find the maximum size rectangle binary-sub-matrix with all 1’s. 
+Given a 2D array, print it in spiral form. 
+
+https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-21)
+#
+
+### DAY 22:
+
+#### Search in row wise and column wise sorted matrix
+
+Given an n x n matrix and a number x, find the position of x in the matrix if it is present in it. Otherwise, print “Not Found”. In the given matrix, every row and column is sorted in increasing order. 
+
+https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-22)
+#
+
+### DAY 23:
+
+#### Maximum size rectangle binary sub matrix 1s
+
+Given a binary matrix, find the maximum size rectangle binary-sub-matrix with all 1’s. 
 
 https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
 
-### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-23)
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-23)
+#
+
+### DAY 24:
+
+#### Convert Decimal to Roman 
+
+Given a number, find its corresponding Roman numeral. 
+
+https://www.geeksforgeeks.org/converting-decimal-number-lying-between-1-to-3999-to-roman-numerals/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-24)
+#
 
