@@ -397,3 +397,17 @@ https://www.geeksforgeeks.org/converting-decimal-number-lying-between-1-to-3999-
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-24)
 #
 
+### DAY 25:
+
+#### Maximum Occuring character in an input string 
+
+Given a string containing lowercase characters. The task is to print the maximum occurring character in the input string. If 2 or more characters appear the same number of times, print the lexicographically (alphabetically) lowest (first) character.
+
+geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-25)
+#
+
+
