@@ -230,7 +230,7 @@ Expected Auxiliary Space: O(n)
 
 ### DAY-13: 
 
-#### Minimum Number of Platforms Required for a Railway/Bus Station.
+#### Problem: Minimum Number of Platforms Required for a Railway/Bus Station.
 
 Given arrival and departure times of all trains that reach a railway station, the task is to find the minimum number of platforms required for the railway station so that no train waits.
 
@@ -247,7 +247,7 @@ Expected Auxiliary Space: O(n)
 
 ### DAY-14: 
 
-#### Median of two sorted arrays of different sizes
+#### Problem: Median of two sorted arrays of different sizes
 
 Given two sorted arrays, a[] and b[], the task is to find the median of these sorted arrays, in O(log n + log m) time complexity, when n is the number of elements in the first array, and m is the number of elements in the second array. 
 
@@ -264,7 +264,7 @@ Expected Auxiliary Space: O(1)
 
 ### DAY-15: 
 
-#### Median of two sorted arrays of different sizes
+#### Problem: Median of two sorted arrays of different sizes
 
 Given an array A[] consisting 0s, 1s, and 2s. The task is to write a function that sorts the given array. The functions should put all 0s first, then all 1s and all 2s in last.  
 
@@ -281,7 +281,7 @@ Expected Auxiliary Space: O(1)
 
 ### DAY-16: 
 
-#### Different Operations on Matrices 
+#### Problem: Different Operations on Matrices 
 
 Perform arithmetic operations on 2 given matrices. 
 
@@ -295,7 +295,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 17:
 
-#### Minimise the maximum difference of adjacent elements after at most k insertions
+#### Problem: Minimise the maximum difference of adjacent elements after at most k insertions
 
 Given an array of N elements, the task is to minimize the maximum difference of adjacent elements by inserting at most K elements in the array. 
 
@@ -308,7 +308,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 18:
 
-#### Determinant of a matrix
+#### Problem: Determinant of a matrix
 
 Given a matrix of N size, the task is to find the determinant of the matrix. 
 
