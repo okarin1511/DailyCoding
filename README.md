@@ -437,3 +437,43 @@ https://www.geeksforgeeks.org/program-to-validate-an-ip-address/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-27)
 #
 
+### DAY 28:
+
+#### Substring of another string
+
+Given two strings s1 and s2, find if s1 is a substring of s2. If yes, return the index of the first occurrence, else return -1.
+
+https://www.geeksforgeeks.org/check-string-substring-another/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-28)
+#
+
+### DAY 29:
+
+#### Isomorphic strings
+
+Two strings str1 and str2 are called isomorphic if there is a one to one mapping possible for every character of str1 to every character of str2. And all occurrences of every character in ‘str1’ map to same character in ‘str2’
+
+https://www.geeksforgeeks.org/check-if-two-given-strings-are-isomorphic-to-each-other/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-29)
+#
+
+### DAY 30:
+
+#### Rotated strings
+
+Given a string s1 and a string s2, write a snippet to say whether s2 is a rotation of s1?
+
+https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-30)
+#
+
+
