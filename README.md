@@ -467,7 +467,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 #### Rotated strings
 
-Given a string s1 and a string s2, write a snippet to say whether s2 is a rotation of s1?
+Given a string s1 and a string s2, write a snippet to say whether s2 is a rotation of s1.
 
 https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
 
@@ -476,4 +476,16 @@ https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-eac
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-30)
 #
 
+### DAY 31:
+
+#### Rotated strings
+
+ Given a string str, find the length of the longest substring without repeating characters.
+
+https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-31)
+#
 
