@@ -489,3 +489,16 @@ https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-31)
 #
 
+### DAY 32:
+
+#### Rotated strings
+
+Given two positive numbers as strings. The numbers may be very large (may not fit in long long int), the task is to find product of these two numbers. 
+
+https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-32)
+#
+
