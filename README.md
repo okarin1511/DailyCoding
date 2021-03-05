@@ -491,7 +491,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 32:
 
-#### Rotated strings
+#### Muliply as strings
 
 Given two positive numbers as strings. The numbers may be very large (may not fit in long long int), the task is to find product of these two numbers. 
 
@@ -500,5 +500,18 @@ https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/
 ### My Solution: 
 
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-32)
+#
+
+### DAY 33:
+
+#### Check whether two strings are anagram of each other
+
+Write a function to check whether two given strings are anagram of each other or not. 
+
+https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-33)
 #
 
