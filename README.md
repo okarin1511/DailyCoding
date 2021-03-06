@@ -321,7 +321,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 19:
 
-#### Find the transpose of a matrix
+#### Problem: Find the transpose of a matrix
 
 Given a matrix of N size, the task is to find the transpose of the matrix. 
 
