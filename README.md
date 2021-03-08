@@ -478,7 +478,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 31:
 
-#### Rotated strings
+#### Length of the longest substring without repeating characters
 
  Given a string str, find the length of the longest substring without repeating characters.
 
