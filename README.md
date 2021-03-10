@@ -527,3 +527,31 @@ https://www.geeksforgeeks.org/reverse-words-in-a-given-string/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-35)
 #
 
+### DAY 36:
+ 
+#### Check whether Kth bit is set. 
+
+Given a number n, check if k-th bit of n is set or not. 
+
+https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-36)
+#
+
+### DAY 37:
+
+#### Check if input is a power of two. 
+
+Given a positive integer, write a function to find if it is a power of two or not.
+
+https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-37)
+# 
+
+
+
