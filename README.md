@@ -553,5 +553,16 @@ https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-37)
 # 
 
+### DAY 39:
 
+#### Count number of bits to be flipped to convert a to b 
+
+Given two numbers ‘a’ and b’. Write a program to count number of bits needed to be flipped to convert ‘a’ to ‘b’.
+
+https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-37)
+# 
 
