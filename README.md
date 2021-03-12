@@ -147,7 +147,11 @@ Constraints:
 
 #### Problem: Merge Sort
 
-Like QuickSort, Merge Sort is a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves. The merge() function is used for merging two halves. The merge(arr, l, m, r) is a key process that assumes that arr[l..m] and arr[m+1..r] are sorted and merges the two sorted sub-arrays into one. See the following C implementation for details.
+Like QuickSort, Merge Sort is a Divide and Conquer algorithm. 
+It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves. 
+The merge() function is used for merging two halves. 
+The merge(arr, l, m, r) is a key process that assumes that arr[l..m] and arr[m+1..r] are sorted and merges the two sorted sub-arrays into one. 
+See the following C implementation for details.
 
 ##### https://www.geeksforgeeks.org/merge-sort/
 
@@ -563,6 +567,23 @@ https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to
 
 ### My Solution: 
 
-You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-37)
-# 
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-39)
+#
+
+### DAY 40:
+
+#### Gray to Binary and Binary to Gray conversion.
+
+Binary Numbers is default way to store numbers, but in many applications binary numbers are difficult to use and a variation of binary numbers is needed. 
+This is where Gray codes are very useful. 
+Gray code has property that two successive numbers differ in only one bit because of this property gray code does the cycling through 
+various states with minimal effort and used in K-maps, error correction, communication etc.
+
+https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-40)
+#
+
 
