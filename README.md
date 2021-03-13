@@ -586,4 +586,15 @@ https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-40)
 #
 
+### DAY 41:
 
+#### Rightmost Bit
+
+Write a one line function to return position of first 1 from right to left, in binary representation of an Integer.
+
+https://www.geeksforgeeks.org/position-of-rightmost-set-bit/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-41)
+#
