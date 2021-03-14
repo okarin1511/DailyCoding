@@ -351,7 +351,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 21:
 
-#### Print a given Matrix in spiral form
+#### Problem: Print a given Matrix in spiral form
 
 Given a 2D array, print it in spiral form. 
 
