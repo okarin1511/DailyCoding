@@ -598,3 +598,31 @@ https://www.geeksforgeeks.org/position-of-rightmost-set-bit/
 
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-41)
 #
+
+### DAY 42:
+
+#### Total set bits from 1 to n
+
+Given a positive integer n, count the total number of set bits in binary representation of all numbers from 1 to n.
+
+https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-42)
+#
+
+### DAY 43:
+
+#### Position of rightmost different bit
+
+Given two numbers m and n. Find the position of the rightmost different bit in the binary representation of numbers. It is guaranteed that such a bit exists.
+
+https://www.geeksforgeeks.org/position-rightmost-different-bit/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-43)
+#
+
+
