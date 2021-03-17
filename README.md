@@ -625,4 +625,17 @@ https://www.geeksforgeeks.org/position-rightmost-different-bit/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-43)
 #
 
+### DAY 45:
+
+#### Swap odd and even bits
+
+Swap all odd and even bits. Expected time complexity O(1). 
+
+https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-45)
+#
+
 
