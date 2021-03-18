@@ -638,4 +638,17 @@ https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-45)
 #
 
+### DAY 46:
+
+#### Check if two arrays are equal
+
+Check if two arrays are equal or not using Hashing.   
+
+https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-46)
+#
+
 
