@@ -5,6 +5,7 @@
 #### Problem: Numbers with exactly 3 divisors
 
 Given a number N, print all numbers in the range from 1 to N having exactly 3 divisors. 
+
 ##### https://www.geeksforgeeks.org/numbers-exactly-3-divisors/
 
 ### My Solution:
