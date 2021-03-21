@@ -652,4 +652,43 @@ https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-46)
 #
 
+### DAY 47:
+
+#### Maximum distance two occurences element array
+
+Given an array with repeated elements, the task is to find the maximum distance two occurrences of an element. 
+
+https://www.geeksforgeeks.org/maximum-distance-two-occurrences-element-array/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-47)
+#
+
+### DAY 48:
+
+#### Check for pair in array
+
+Write a program that, given an array A[] of n numbers and another number x, determines whether or not there exist two elements in S whose sum is exactly x.  
+
+https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-48)
+#
+
+### DAY 49:
+
+#### Sort elements by frequency
+
+Print the elements of an array in the decreasing frequency if 2 numbers have same frequency then print the one which came first.   
+
+https://www.geeksforgeeks.org/sort-elements-by-frequency/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-49)
+#
+
 
