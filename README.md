@@ -365,7 +365,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 22:
 
-#### Search in row wise and column wise sorted matrix
+#### Problem: Search in row wise and column wise sorted matrix
 
 Given an n x n matrix and a number x, find the position of x in the matrix if it is present in it. Otherwise, print “Not Found”. In the given matrix, every row and column is sorted in increasing order. 
 
@@ -378,7 +378,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 23:
 
-#### Maximum size rectangle binary sub matrix 1s
+#### Problem: Maximum size rectangle binary sub matrix 1s
 
 Given a binary matrix, find the maximum size rectangle binary-sub-matrix with all 1’s. 
 
@@ -391,7 +391,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 24:
 
-#### Convert Decimal to Roman 
+#### Problem: Convert Decimal to Roman 
 
 Given a number, find its corresponding Roman numeral. 
 
