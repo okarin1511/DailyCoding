@@ -691,4 +691,17 @@ https://www.geeksforgeeks.org/sort-elements-by-frequency/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-49)
 #
 
+### DAY 50:
+
+#### All non repeating elements in an array
+
+Print all the non repeating elements in an array  
+
+Similar to: https://www.geeksforgeeks.org/non-repeating-element/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-50)
+#
+
 
