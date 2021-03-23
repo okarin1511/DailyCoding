@@ -404,7 +404,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 25:
 
-#### Maximum Occuring character in an input string 
+#### Problem: Maximum Occuring character in an input string 
 
 Given a string containing lowercase characters. The task is to print the maximum occurring character in the input string. If 2 or more characters appear the same number of times, print the lexicographically (alphabetically) lowest (first) character.
 
@@ -415,7 +415,7 @@ geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-25)
 #
 
-### DAY 26:
+### Problem: DAY 26:
 
 #### Missing characters make string pangram 
 
@@ -430,7 +430,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 27:
 
-#### Validate IP address
+#### Problem: Validate IP address
 
 Write a program to Validate an IPv4 Address. 
 According to Wikipedia, IPv4 addresses are canonically represented in dot-decimal notation, which consists of four decimal numbers, each ranging from 0 to 255, separated by dots, e.g., 172.16.254.1
