@@ -444,7 +444,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 28:
 
-#### Substring of another string
+#### Problem: Substring of another string
 
 Given two strings s1 and s2, find if s1 is a substring of s2. If yes, return the index of the first occurrence, else return -1.
 
