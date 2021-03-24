@@ -704,4 +704,30 @@ Similar to: https://www.geeksforgeeks.org/non-repeating-element/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-50)
 #
 
+### DAY 51:
+
+#### Subarrays with 0 sum
+
+Given an array, print all subarrays in the array which has sum 0.  
+
+https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-51)
+#
+
+### DAY 52:
+
+#### K numbers with most occurences
+
+Find k numbers with most occurrences in the given array.
+
+https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-52)
+#
+
 
