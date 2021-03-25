@@ -470,7 +470,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 30:
 
-#### Rotated strings
+#### Problem: Rotated strings
 
 Given a string s1 and a string s2, write a snippet to say whether s2 is a rotation of s1.
 
