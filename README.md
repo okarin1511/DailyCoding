@@ -730,4 +730,31 @@ https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-52)
 #
 
+### DAY 53:
+
+#### Sort array according to order defined by another array
+
+Sort an array according to the order defined by another array
+
+https://www.geeksforgeeks.org/sort-array-according-order-defined-another-array/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-53)
+#
+
+### DAY 54:
+
+#### Largest subarray with 0 sum
+
+Given an array of integers, find the length of the longest sub-array with sum equals to 0.
+
+https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-54)
+#
+
+
 
