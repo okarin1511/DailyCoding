@@ -756,5 +756,18 @@ https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-54)
 #
 
+### DAY 55:
+
+#### Four elements with sum 0
+
+Given an array of integers, find anyone combination of four elements in the array whose sum is equal to a given value X.
+
+https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-55)
+#
+
 
 
