@@ -769,5 +769,18 @@ https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-55)
 #
 
+### DAY 56:
+
+#### Distinct elements in every window of size k
+
+Given an array of size n and an integer k, return the count of distinct numbers in all windows of size k.
+
+https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-56)
+#
+
 
 
