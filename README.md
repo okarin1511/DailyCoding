@@ -782,5 +782,16 @@ https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-56)
 #
 
+### DAY 57:
+
+#### Print the linked list in a single line
+
+Print all elements of a Linked List where we take linked list as input and print the linked list in a single line.
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-57)
+#
+
 
 
