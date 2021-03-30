@@ -793,5 +793,18 @@ Print all elements of a Linked List where we take linked list as input and print
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-57)
 #
 
+### DAY 58:
+
+#### Reverse a Linked List
+
+Given pointer to the head node of a linked list, the task is to reverse the linked list. We need to reverse the list by changing the links between nodes.
+
+https://www.geeksforgeeks.org/reverse-a-linked-list/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-58)
+#
+
 
 
