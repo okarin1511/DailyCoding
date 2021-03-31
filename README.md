@@ -806,5 +806,18 @@ https://www.geeksforgeeks.org/reverse-a-linked-list/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-58)
 #
 
+### DAY 59:
+
+#### Count a given int in a linked list
+
+Given a singly linked list and a key, count number of occurrences of given key in linked list.
+
+https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-59)
+#
+
 
 
