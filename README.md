@@ -819,5 +819,18 @@ https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-59)
 #
 
+### DAY 60:
+
+#### Pairwise swap in a linked list
+
+Given a singly linked list, write a function to swap elements pairwise.
+
+https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-60)
+#
+
 
 
