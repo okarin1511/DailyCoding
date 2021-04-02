@@ -832,5 +832,18 @@ https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-60)
 #
 
+### DAY 61:
+
+#### Sum of two linked list
+
+Given two numbers represented by two linked lists, write a function that returns the sum list. The sum list is linked list representation of the addition of two input numbers. It is not allowed to modify the lists. Also, not allowed to use explicit extra space (Hint: Use Recursion).
+
+https://www.geeksforgeeks.org/sum-of-two-linked-lists/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-61)
+#
+
 
 
