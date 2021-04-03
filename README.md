@@ -845,5 +845,18 @@ https://www.geeksforgeeks.org/sum-of-two-linked-lists/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-61)
 #
 
+### DAY 62:
+
+#### Sorted insert for cicular linked list
+
+Write a  function to insert a new value in a sorted Circular Linked List (CLL). For example, if the input CLL is following. 
+
+https://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-62)
+#
+
 
 
