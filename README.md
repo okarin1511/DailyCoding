@@ -858,5 +858,17 @@ https://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-62)
 #
 
+### DAY 63:
+
+#### Split a cicular linked list into two halves
+
+Split a Circular Linked List into two halves. 
+
+https://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-63)
+#
 
 
