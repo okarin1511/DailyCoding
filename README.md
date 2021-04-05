@@ -415,9 +415,9 @@ geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-25)
 #
 
-### Problem: DAY 26:
+### DAY 26:
 
-#### Missing characters make string pangram 
+#### Problem: Missing characters make string pangram 
 
 Pangram is a sentence containing every letter in the English alphabet. Given a string, find all characters that are missing from the string, i.e., the characters that can make the string a Pangram. We need to print output in alphabetic order. 
 
@@ -483,7 +483,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 31:
 
-#### Length of the longest substring without repeating characters
+#### Problem: Length of the longest substring without repeating characters
 
  Given a string str, find the length of the longest substring without repeating characters.
 
@@ -496,7 +496,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 32:
 
-#### Muliply as strings
+#### Problem: Muliply as strings
 
 Given two positive numbers as strings. The numbers may be very large (may not fit in long long int), the task is to find product of these two numbers. 
 
