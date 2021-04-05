@@ -871,4 +871,17 @@ https://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-63)
 #
 
+### DAY 64:
+
+#### Reverse a list in groups of given size
+
+Given a linked list, write a function to reverse every k nodes (where k is an input to the function). 
+
+https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-64)
+#
+
 
