@@ -884,4 +884,17 @@ https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-64)
 #
 
+### DAY 65:
+
+#### Detect loop in a linked list
+
+Given a linked list, check if the linked list has loop or not. Below diagram shows a linked list with a loop. 
+
+https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-65)
+#
+
 
