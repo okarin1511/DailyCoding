@@ -897,4 +897,17 @@ https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-65)
 #
 
+### DAY 66:
+
+#### Find intersection point of two linked lists
+
+There are two singly linked lists in a system. By some programming error, the end node of one of the linked list got linked to the second list, forming an inverted Y shaped list. Write a program to get the point where two linked list merge. 
+
+https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-66)
+#
+
 
