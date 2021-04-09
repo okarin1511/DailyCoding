@@ -928,4 +928,17 @@ https://www.geeksforgeeks.org/delete-middle-of-linked-list/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-67)
 #
 
+### DAY 68:
+
+#### Clone a linked list with next and random pointer 
+
+Given a linked list having two pointers in each node. The first one points to the next node of the list, however, the other pointer is random and can point to any node of the list. Write a program that clones the given list in O(1) space, i.e., without any extra space.
+
+https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-68)
+#
+
 
