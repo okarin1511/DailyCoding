@@ -509,7 +509,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 33:
 
-#### Check whether two strings are anagram of each other
+#### Problem: Check whether two strings are anagram of each other
 
 Write a function to check whether two given strings are anagram of each other or not. 
 
@@ -523,7 +523,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 35:
 
-#### Reverse words in a given string. 
+#### Problem: Reverse words in a given string. 
 
 https://www.geeksforgeeks.org/reverse-words-in-a-given-string/
 
@@ -534,7 +534,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 36:
  
-#### Check whether Kth bit is set. 
+#### Problem: Check whether Kth bit is set. 
 
 Given a number n, check if k-th bit of n is set or not. 
 
@@ -547,7 +547,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 37:
 
-#### Check if input is a power of two. 
+#### Problem: Check if input is a power of two. 
 
 Given a positive integer, write a function to find if it is a power of two or not.
 
@@ -560,7 +560,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 39:
 
-#### Count number of bits to be flipped to convert a to b 
+#### Problem: Count number of bits to be flipped to convert a to b 
 
 Given two numbers ‘a’ and b’. Write a program to count number of bits needed to be flipped to convert ‘a’ to ‘b’.
 
@@ -573,7 +573,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 40:
 
-#### Gray to Binary and Binary to Gray conversion.
+#### Problem: Gray to Binary and Binary to Gray conversion.
 
 Binary Numbers is default way to store numbers, but in many applications binary numbers are difficult to use and a variation of binary numbers is needed. 
 This is where Gray codes are very useful. 
@@ -589,7 +589,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 41:
 
-#### Rightmost Bit
+#### Problem: Rightmost Bit
 
 Write a one line function to return position of first 1 from right to left, in binary representation of an Integer.
 
