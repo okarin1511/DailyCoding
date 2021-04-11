@@ -602,7 +602,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 42:
 
-#### Total set bits from 1 to n
+#### Problem: Total set bits from 1 to n
 
 Given a positive integer n, count the total number of set bits in binary representation of all numbers from 1 to n.
 
