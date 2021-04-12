@@ -941,4 +941,44 @@ https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-68)
 #
 
+### DAY 69:
+
+#### Quick sort on Singly Linked list
+
+https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-69)
+#
+
+### DAY 70:
+
+#### Deletion at different positions in a circular linked list 
+
+Given a Circular Linked List. The task is to write programs to delete nodes from this list present at: 
+First position.
+Last Position.
+At any given position i.
+
+https://www.geeksforgeeks.org/deletion-at-different-positions-in-a-circular-linked-list/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-70)
+#
+
+### DAY 71:
+
+#### QuickSort on Doubly Linked List
+
+https://www.geeksforgeeks.org/quicksort-for-linked-list/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-71)
+#
+
+
+
 
