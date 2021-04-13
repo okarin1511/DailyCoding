@@ -979,6 +979,21 @@ https://www.geeksforgeeks.org/quicksort-for-linked-list/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-71)
 #
 
+### DAY 72:
+
+#### Delete a Node from linked list without head pointer
+
+You are given a singly linked list and pointer which is pointing to the node which is required to be deleted. Any information about head pointer or any other node is not given. You need to write a function to delete that node from linked list. Your function will take only one argument: pointer to the node which is to be deleted.
+
+Note: No head reference is given to you. It is guaranteed that the node to be deleted is not the first node
+
+https://www.geeksforgeeks.org/delete-a-node-from-linked-list-without-head-pointer/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-72)
+#
+
 
 
 
