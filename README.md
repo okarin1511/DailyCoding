@@ -615,7 +615,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 43:
 
-#### Position of rightmost different bit
+#### Problem: Position of rightmost different bit
 
 Given two numbers m and n. Find the position of the rightmost different bit in the binary representation of numbers. It is guaranteed that such a bit exists.
 
@@ -628,7 +628,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 45:
 
-#### Swap odd and even bits
+#### Problem: Swap odd and even bits
 
 Swap all odd and even bits. Expected time complexity O(1). 
 
@@ -641,7 +641,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 46:
 
-#### Check if two arrays are equal
+#### Problem: Check if two arrays are equal
 
 Check if two arrays are equal or not using Hashing.   
 
