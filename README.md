@@ -994,6 +994,21 @@ https://www.geeksforgeeks.org/delete-a-node-from-linked-list-without-head-pointe
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-72)
 #
 
+### DAY 73:
+
+#### Merge sort on doubly linked list
+
+Given a doubly linked list, write a function to sort the doubly linked list in increasing order using merge sort.
+
+Note: No head reference is given to you. It is guaranteed that the node to be deleted is not the first node
+
+https://www.geeksforgeeks.org/merge-sort-for-doubly-linked-list/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-73)
+#
+
 
 
 
