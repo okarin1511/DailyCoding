@@ -1000,13 +1000,24 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 Given a doubly linked list, write a function to sort the doubly linked list in increasing order using merge sort.
 
-Note: No head reference is given to you. It is guaranteed that the node to be deleted is not the first node
-
 https://www.geeksforgeeks.org/merge-sort-for-doubly-linked-list/
 
 ### My Solution: 
 
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-73)
+#
+
+### DAY 74:
+
+#### Reverse string using stack
+
+Reverse a string using stack.
+
+https://www.geeksforgeeks.org/stack-set-3-reverse-string-using-stack/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-74)
 #
 
 
