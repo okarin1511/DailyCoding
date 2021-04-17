@@ -654,7 +654,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 47:
 
-#### Maximum distance two occurences element array
+#### Problem: Maximum distance two occurences element array
 
 Given an array with repeated elements, the task is to find the maximum distance two occurrences of an element. 
 
