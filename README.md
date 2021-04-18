@@ -1033,6 +1033,34 @@ https://www.geeksforgeeks.org/next-greater-element-in-same-order-as-input/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-75)
 #
 
+### DAY 76:
+
+#### Design a stack that supports getMin()
+
+Design a Data Structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. All these operations of SpecialStack must be O(1). To implement SpecialStack, you should only use standard Stack data structure and no other data structure like arrays, list, .. etc. 
+
+https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-76)
+#
+
+### DAY 77:
+
+#### Evaluation of Postfix Expression
+
+The Postfix notation is used to represent algebraic expressions. The expressions written in postfix form are evaluated faster compared to infix notation as parenthesis are not required in postfix. We have discussed infix to postfix conversion. In this post, evaluation of postfix expressions is discussed.
+
+https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-77)
+#
+
+
+
 
 
 
