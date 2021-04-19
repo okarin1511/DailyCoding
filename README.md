@@ -1059,6 +1059,20 @@ https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-77)
 #
 
+### DAY 78:
+
+#### Problem: Maximum size rectangle binary sub matrix 1s
+
+Given a binary matrix, find the maximum size rectangle binary-sub-matrix with all 1’s. 
+
+https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-78)
+#
+
+
 
 
 
