@@ -1072,6 +1072,19 @@ https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-78)
 #
 
+### DAY 79:
+
+#### Problem: Sort a stack using recursion
+
+Given a stack, sort it using recursion. Use of any loop constructs like while, for..etc is not allowed. 
+
+https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-79)
+#
+
 
 
 
