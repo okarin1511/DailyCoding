@@ -1085,6 +1085,19 @@ https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-79)
 #
 
+### DAY 80:
+
+#### Problem: Largest area in histogram
+
+Largest Rectangular Area in a Histogram.
+
+https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-80)
+#
+
 
 
 
