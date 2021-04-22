@@ -1098,6 +1098,19 @@ https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-80)
 #
 
+### DAY 81:
+
+#### Problem: Check for Balanced Brackets in an expression
+
+Given an expression string exp, write a program to examine whether the pairs and the orders of “{“, “}”, “(“, “)”, “[“, “]” are correct in exp.
+
+https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-81)
+#
+
 
 
 
