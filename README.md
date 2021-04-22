@@ -680,7 +680,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 49:
 
-#### Sort elements by frequency
+#### Problem: Sort elements by frequency
 
 Print the elements of an array in the decreasing frequency if 2 numbers have same frequency then print the one which came first.   
 
@@ -693,7 +693,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 50:
 
-#### All non repeating elements in an array
+#### Problem: All non repeating elements in an array
 
 Print all the non repeating elements in an array  
 
