@@ -706,7 +706,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 51:
 
-#### Subarrays with 0 sum
+#### Problem: Subarrays with 0 sum
 
 Given an array, print all subarrays in the array which has sum 0.  
 
@@ -719,7 +719,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 52:
 
-#### K numbers with most occurences
+#### Problem: K numbers with most occurences
 
 Find k numbers with most occurrences in the given array.
 
@@ -732,7 +732,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 53:
 
-#### Sort array according to order defined by another array
+#### Problem: Sort array according to order defined by another array
 
 Sort an array according to the order defined by another array
 
@@ -745,7 +745,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 54:
 
-#### Largest subarray with 0 sum
+#### Problem: Largest subarray with 0 sum
 
 Given an array of integers, find the length of the longest sub-array with sum equals to 0.
 
