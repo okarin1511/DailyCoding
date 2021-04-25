@@ -1111,6 +1111,32 @@ https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-81)
 #
 
+### DAY 82:
+
+#### Problem: Maximum of minimum of every window size
+
+Find maximum of minimum for every window size in a given array.
+
+https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-82)
+#
+
+### DAY 83:
+
+#### Problem: Stock Span Problem
+
+The stock span problem is a financial problem where we have a series of n daily price quotes for a stock and we need to calculate span of stock’s price for all n days. 
+The span Si of the stock’s price on a given day i is defined as the maximum number of consecutive days just before the given day, for which the price of the stock on the current day is less than or equal to its price on the given day.
+
+https://www.geeksforgeeks.org/the-stock-span-problem/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-83)
+#
 
 
 
