@@ -1138,6 +1138,19 @@ https://www.geeksforgeeks.org/the-stock-span-problem/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-83)
 #
 
+### DAY 84:
+
+#### Problem: Infix to Postfix
+
+Convert an infix expression to a Postfix expression
+
+https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-84)
+#
+
 
 
 
