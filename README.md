@@ -1151,6 +1151,19 @@ https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-84)
 #
 
+### DAY 85:
+
+#### Problem: Generate Binary Numbers from 1 to n
+
+Given a number n, write a function that generates and prints all binary numbers with decimal values from 1 to n. 
+
+https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-85)
+#
+
 
 
 
