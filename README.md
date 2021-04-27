@@ -1164,6 +1164,19 @@ https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-85)
 #
 
+### DAY 86:
+
+#### Problem: Push and Pop
+
+Write the push and pop functions for a queue.
+
+https://www.geeksforgeeks.org/queuepush-and-queuepop-in-cpp-stl/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-86)
+#
+
 
 
 
