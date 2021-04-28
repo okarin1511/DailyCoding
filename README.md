@@ -1177,6 +1177,19 @@ https://www.geeksforgeeks.org/queuepush-and-queuepop-in-cpp-stl/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-86)
 #
 
+### DAY 87:
+
+#### Problem: Implement Stack using Queue
+
+We are given a Queue data structure that supports standard operations like enqueue() and dequeue(). We need to implement a Stack data structure using only instances of Queue and queue operations allowed on the instances.
+
+https://www.geeksforgeeks.org/implement-stack-using-queue/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-87)
+#
+
 
 
 
