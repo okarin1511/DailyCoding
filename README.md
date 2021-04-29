@@ -1190,6 +1190,19 @@ https://www.geeksforgeeks.org/implement-stack-using-queue/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-87)
 #
 
+### DAY 88:
+
+#### Problem: Circular Queue
+
+Queue using Circular Array (Push and pop operations in a circular queue using array)
+
+https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-88)
+#
+
 
 
 
