@@ -1203,6 +1203,32 @@ https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementa
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-88)
 #
 
+### DAY 89:
+
+#### Problem: Reverse first k elements
+
+Given an integer k and a queue of integers, we need to reverse the order of the first k elements of the queue, leaving the other elements in the same relative order.
+
+https://www.geeksforgeeks.org/reversing-first-k-elements-queue/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-89)
+#
+
+### DAY 90:
+
+#### Problem: Queue usng stacks
+
+We are given a stack data structure with push and pop operations, the task is to implement a queue using instances of stack data structure and operations on them.
+
+https://www.geeksforgeeks.org/queue-using-stacks/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-90)
+#
+
 
 
 
