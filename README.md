@@ -1229,6 +1229,19 @@ https://www.geeksforgeeks.org/queue-using-stacks/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-90)
 #
 
+### DAY 91:
+
+#### Problem: Sliding window maximum of all subarrays of size k
+
+Given an array and an integer K, find the maximum for each and every contiguous subarray of size k.
+
+https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-91)
+#
+
 
 
 
