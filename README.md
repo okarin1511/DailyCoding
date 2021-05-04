@@ -1242,6 +1242,18 @@ https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-91)
 #
 
+### DAY 92:
+
+#### Problem: Minimum steps to reach target
+
+Given a square chessboard of N x N size, the position of Knight and position of a target is given. We need to find out the minimum steps a Knight will take to reach the target position.
+
+https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-92)
+#
 
 
 
