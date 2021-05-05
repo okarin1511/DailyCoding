@@ -1255,6 +1255,20 @@ https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-92)
 #
 
+### DAY 93:
+
+#### Problem: Find extra element in array
+
+Given two sorted arrays. There is only 1 difference between the arrays. The first array has one element extra added in between. Find the index of the extra element.
+
+https://www.geeksforgeeks.org/find-index-of-an-extra-element-present-in-one-sorted-array/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-93)
+#
+
+
 
 
 
