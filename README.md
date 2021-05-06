@@ -1268,6 +1268,19 @@ https://www.geeksforgeeks.org/find-index-of-an-extra-element-present-in-one-sort
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-93)
 #
 
+### DAY 94:
+
+#### Problem: Perimeter of shape formed by 1s in matrix
+
+Given a matrix of N rows and M columns, consist of 0’s and 1’s. The task is to find the perimeter of subfigure consisting only 1’s in the matrix. Perimeter of single 1 is 4 as it can be covered from all 4 side. Perimeter of double 11 is 6. 
+
+https://www.geeksforgeeks.org/find-perimeter-shapes-formed-1s-binary-matrix/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-94)
+#
+
 
 
 
