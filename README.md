@@ -1281,6 +1281,33 @@ https://www.geeksforgeeks.org/find-perimeter-shapes-formed-1s-binary-matrix/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-94)
 #
 
+### DAY 95:
+
+#### Problem: Count pairs of two linked list  
+
+Given two linked lists(can be sorted or unsorted) of size n and m of distinct elements. Given a value x. The problem is to count all pairs from both lists whose sum is equal to the given value x.
+Note: The pair has an element from each linked list.
+
+https://www.geeksforgeeks.org/count-pairs-two-linked-lists-whose-sum-equal-given-value/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-95)
+#
+
+### DAY 96:
+
+#### Problem: Length of linked list is even or odd  
+
+Given a linked list, task is to make a function which check whether the length of linked list is even or odd.
+
+https://www.geeksforgeeks.org/check-whether-the-length-of-given-linked-list-is-even-or-odd/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-96)
+#
+
 
 
 
