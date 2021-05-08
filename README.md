@@ -758,7 +758,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 55:
 
-#### Four elements with sum 0
+#### Problem: Four elements with sum 0
 
 Given an array of integers, find anyone combination of four elements in the array whose sum is equal to a given value X.
 
@@ -771,7 +771,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 56:
 
-#### Distinct elements in every window of size k
+#### Problem: Distinct elements in every window of size k
 
 Given an array of size n and an integer k, return the count of distinct numbers in all windows of size k.
 
