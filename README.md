@@ -1308,6 +1308,32 @@ https://www.geeksforgeeks.org/check-whether-the-length-of-given-linked-list-is-e
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-96)
 #
 
+### DAY 97:
+
+#### Problem: Find character of first string present at minimum index of second string  
+
+Given a string str and another string patt. Find the character in patt that is present at the minimum index in str. If no character of patt is present in str then print ‘No character present’.
+
+https://www.geeksforgeeks.org/find-character-first-string-present-minimum-index-second-string/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-97)
+#
+
+### DAY 98:
+
+#### Problem: Leaf nodes in a binary tree 
+
+Program to count leaf nodes in a binary tree.
+
+https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/
+
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-98)
+#
 
 
 
