@@ -1347,6 +1347,19 @@ https://www.geeksforgeeks.org/right-view-binary-tree-using-queue/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-99)
 #
 
+### DAY 100:
+
+#### Problem: Check if two trees are mirror 
+
+Given two Binary Trees, write a function that returns true if two trees are mirror of each other, else false. 
+
+https://www.geeksforgeeks.org/check-if-two-trees-are-mirror/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-100)
+#
+
 
 
 
