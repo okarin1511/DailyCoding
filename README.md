@@ -1360,6 +1360,19 @@ https://www.geeksforgeeks.org/check-if-two-trees-are-mirror/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-100)
 #
 
+### DAY 101:
+
+#### Problem: Diameter o binary tree 
+
+The diameter of a tree (sometimes called the width) is the number of nodes on the longest path between two end nodes. The diagram below shows two trees each with diameter nine, the leaves that form the ends of the longest path are shaded (note that there is more than one path in each tree of length nine, but no path longer than nine nodes).  
+
+https://www.geeksforgeeks.org/diameter-of-a-binary-tree/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-101)
+#
+
 
 
 
