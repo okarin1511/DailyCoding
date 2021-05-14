@@ -1373,6 +1373,19 @@ https://www.geeksforgeeks.org/diameter-of-a-binary-tree/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-101)
 #
 
+### DAY 102:
+
+#### Problem: Check if a binary tree is sumtree 
+
+Write a function that returns true if the given Binary Tree is SumTree else false. A SumTree is a Binary Tree where the value of a node is equal to the sum of the nodes present in its left subtree and right subtree. An empty tree is SumTree and the sum of an empty tree can be considered as 0. A leaf node is also considered as SumTree.   
+
+https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-sumtree/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-102)
+#
+
 
 
 
