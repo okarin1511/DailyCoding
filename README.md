@@ -1386,6 +1386,44 @@ https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-sumtree/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-102)
 #
 
+### DAY 103:
+
+#### Problem: Level order traversal in spiral form 
+
+Write a function to print spiral order traversal of a tree. For below tree, function should print 1, 2, 3, 4, 5, 6, 7.    
+
+https://www.geeksforgeeks.org/level-order-traversal-in-spiral-form/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-103)
+#
+
+### DAY 104:
+
+#### Problem: Zigzag tree traversal 
+
+Write a function to print ZigZag order traversal of a binary tree. For the below binary tree the zigzag order traversal will be 1 3 2 7 6 5 4.    
+
+https://www.geeksforgeeks.org/zigzag-tree-traversal/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-104)
+#
+
+### DAY 105:
+
+#### Problem: Lowest common ancestor of a binary tree 
+
+Given a Binary Tree with all unique values and two nodes value n1 and n2. The task is to find the lowest common ancestor of the given two nodes. We may assume that either both n1 and n2 are present in the tree or none of them is present.     
+
+https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-105)
+#
 
 
 
