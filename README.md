@@ -1425,6 +1425,19 @@ https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-105)
 #
 
+### DAY 106:
+
+#### Problem: Identical trees 
+
+ To identify if two trees are identical, we need to traverse both trees simultaneously, and while traversing we need to compare data and children of the trees.     
+
+https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-106)
+#
+
 
 
 
