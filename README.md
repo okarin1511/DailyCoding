@@ -1451,6 +1451,19 @@ https://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-107)
 #
 
+### DAY 108:
+
+#### Problem: Vertical sum in a given binary tree 
+
+Given a Binary Tree, find the vertical sum of the nodes that are in the same vertical line. Print all sums through different vertical lines.
+
+https://www.geeksforgeeks.org/vertical-sum-in-a-given-binary-tree/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-108)
+#
+
 
 
 
