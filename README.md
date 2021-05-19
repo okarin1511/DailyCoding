@@ -1438,6 +1438,19 @@ https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identic
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-106)
 #
 
+### DAY 107:
+
+#### Problem: Root to leaf path sum equal to a given number 
+
+Given a binary tree and a number, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals the given number. Return false if no such path can be found. 
+
+https://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-107)
+#
+
 
 
 
