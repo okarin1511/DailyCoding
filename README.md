@@ -2,7 +2,7 @@
 
 ### DAY-1:
 
-#### Problem: Numbers with exactly 3 divisors
+#### Problem: Number with exactly 3 divisors
 
 Given a number N, print all numbers in the range from 1 to N having exactly 3 divisors. 
 
