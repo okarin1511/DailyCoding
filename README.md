@@ -1464,6 +1464,19 @@ https://www.geeksforgeeks.org/vertical-sum-in-a-given-binary-tree/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-108)
 #
 
+### DAY 109:
+
+#### Problem: Kth ancestor of a node in a binary tree 
+
+Given a binary tree in which nodes are numbered from 1 to n. Given a node and a positive integer K. We have to print the Kth ancestor of the given node in the binary tree. If there does not exist any such ancestor then print -1.
+
+https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-109)
+#
+
 
 
 
