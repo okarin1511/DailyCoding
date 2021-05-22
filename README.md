@@ -795,7 +795,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 58:
 
-#### Reverse a Linked List
+#### Problem: Reverse a Linked List
 
 Given pointer to the head node of a linked list, the task is to reverse the linked list. We need to reverse the list by changing the links between nodes.
 
