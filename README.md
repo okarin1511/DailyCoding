@@ -1,5 +1,6 @@
 # DailyCoding
 
+
 ### DAY-1:
 
 #### Problem: Number with exactly 3 divisors
