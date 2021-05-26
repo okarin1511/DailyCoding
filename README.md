@@ -808,7 +808,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 59:
 
-#### Count a given int in a linked list
+#### Problem: Count a given int in a linked list
 
 Given a singly linked list and a key, count number of occurrences of given key in linked list.
 
@@ -821,7 +821,7 @@ You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/m
 
 ### DAY 60:
 
-#### Pairwise swap in a linked list
+#### Problem: Pairwise swap in a linked list
 
 Given a singly linked list, write a function to swap elements pairwise.
 
