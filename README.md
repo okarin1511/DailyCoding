@@ -1490,6 +1490,24 @@ https://www.geeksforgeeks.org/tree-isomorphism-problem/
 You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-110)
 #
 
+### DAY 114:
+
+#### Problem: Iterative inorder, preorder, postorder traversal in a binary tree
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-114)
+#
+
+### DAY 115:
+
+#### Problem: Recursive  inorder, preorder, postorder traversal in a binary tree
+
+### My Solution: 
+
+You can find my solution [here](https://github.com/okarin1511/DailyCoding/tree/main/Day-115)
+#
+
 
 
 
